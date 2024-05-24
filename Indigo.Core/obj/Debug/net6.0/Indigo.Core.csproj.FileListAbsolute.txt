@@ -1,0 +1,12 @@
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\bin\Debug\net6.0\Indigo.Core.deps.json
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\bin\Debug\net6.0\Indigo.Core.dll
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\bin\Debug\net6.0\Indigo.Core.pdb
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\obj\Debug\net6.0\Indigo.Core.csproj.AssemblyReference.cache
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\obj\Debug\net6.0\Indigo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\obj\Debug\net6.0\Indigo.Core.AssemblyInfoInputs.cache
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\obj\Debug\net6.0\Indigo.Core.AssemblyInfo.cs
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\obj\Debug\net6.0\Indigo.Core.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\obj\Debug\net6.0\Indigo.Core.dll
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\obj\Debug\net6.0\refint\Indigo.Core.dll
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\obj\Debug\net6.0\Indigo.Core.pdb
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Core\obj\Debug\net6.0\ref\Indigo.Core.dll

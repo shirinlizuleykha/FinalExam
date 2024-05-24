@@ -1,0 +1,22 @@
+﻿@using Indigo.Core.Models;
+@model Post
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form asp-action="DeletePost" method="post">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="/uploads//posts/@Model.ImageUrl" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Name</h5>
+                        <p class="card-text">@Model.Description</p>
+                        <input asp-for="@Model.Id" hidden value="@Model.Id" />
+                        <a asp-action="index" asp-controller="Post" class="btn btn-primary">Go back</a>
+                        <button type="submit" class="btn btn-danger">Delete</button>
+
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>

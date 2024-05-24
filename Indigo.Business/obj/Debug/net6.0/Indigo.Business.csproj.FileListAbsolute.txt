@@ -1,0 +1,17 @@
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\bin\Debug\net6.0\Indigo.Business.deps.json
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\bin\Debug\net6.0\Indigo.Business.dll
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\bin\Debug\net6.0\Indigo.Business.pdb
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\bin\Debug\net6.0\Indigo.Core.dll
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\bin\Debug\net6.0\Indigo.Data.dll
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\bin\Debug\net6.0\Indigo.Data.pdb
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\bin\Debug\net6.0\Indigo.Core.pdb
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\obj\Debug\net6.0\Indigo.Business.csproj.AssemblyReference.cache
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\obj\Debug\net6.0\Indigo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\obj\Debug\net6.0\Indigo.Business.AssemblyInfoInputs.cache
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\obj\Debug\net6.0\Indigo.Business.AssemblyInfo.cs
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\obj\Debug\net6.0\Indigo.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\obj\Debug\net6.0\Indigo.B.3EED25E8.Up2Date
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\obj\Debug\net6.0\Indigo.Business.dll
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\obj\Debug\net6.0\refint\Indigo.Business.dll
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\obj\Debug\net6.0\Indigo.Business.pdb
+C:\Users\ca.r215.11\source\repos\Indigo\Indigo.Business\obj\Debug\net6.0\ref\Indigo.Business.dll
